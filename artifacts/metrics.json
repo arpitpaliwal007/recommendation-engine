@@ -1,0 +1,13 @@
+{
+  "recall@10": 0.2,
+  "ndcg@10": 0.108,
+  "catalog_coverage": 0.9667,
+  "category_diversity": 0.5956,
+  "evaluated_users": 160,
+  "popularity_recall@10": 0.1,
+  "popularity_ndcg@10": 0.0499,
+  "popularity_catalog_coverage": 0.2111,
+  "popularity_category_diversity": 0.3831,
+  "train_events": 2727,
+  "catalog_items": 90
+}
